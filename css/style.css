@@ -75,7 +75,7 @@
   
 .window__bg {
     display: block;
-    background-image: url('/img/BG.svg');
+    background-image: url('img/BG.svg');
     background-size: no-repeat;
     background-position: center;
     background-size: cover;
